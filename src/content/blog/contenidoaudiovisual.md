@@ -1,6 +1,6 @@
 ---
 title: 'Cómo crear contenido visualmente atractivo para redes sociales'
-description: 'Lorem ipsum dolor sit amet'
+description: 'Las redes sociales se han convertido en una herramienta indispensable para las empresas que desean conectar con su audiencia de manera efectiva. Una parte crucial de esta estrategia es **crear contenido visualmente atractivo que capture la atención y fomente la participación**. En MarMax, ofrecemos servicios de diseño y marketing digital para ayudarte a crear contenido visualmente atractivo que resuene con tu audiencia y fortalezca tu presencia en línea.'
 pubDate: 'sep 22 2023'
 heroImage: '/blog-placeholder-2.jpg'
 ---
@@ -30,4 +30,6 @@ El video es una herramienta poderosa para captar la atención de tu audiencia en
 ### Interactúa con tu audiencia
 En MarMax, valoramos la interacción con tu audiencia. Por ello, nos aseguramos de responder a los comentarios, preguntas y mensajes de manera oportuna para fomentar la participación y el compromiso. Esto ayuda a construir una comunidad sólida en torno a tu marca y a fortalecer la lealtad de tus seguidores.
 
-***En conclusión***, en MarMax ofrecemos servicios de diseño y marketing digital para ayudarte a crear contenido visualmente atractivo para tus redes sociales. Al seguir estos consejos y contar con nuestra experiencia y creatividad, podrás destacar en las redes sociales y captar la atención de tu audiencia de manera efectiva
+***En conclusión***, en MarMax ofrecemos servicios de diseño y marketing digital para ayudarte a crear contenido visualmente atractivo para tus redes sociales. Al seguir estos consejos y contar con nuestra experiencia y creatividad, podrás destacar en las redes sociales y captar la atención de tu audiencia de manera efectiva.
+
+Visita la página web de [MarMax](https://marmax.netlify.app/) para mas información.

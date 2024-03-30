@@ -47,3 +47,5 @@ Nuestro objetivo es brindarte las herramientas y conocimientos necesarios para q
 En nuestros tutoriales, explorarás cómo la inteligencia artificial, el diseño web y gráfico, y otras tecnologías emergentes pueden transformar tu empresa, mejorar tu aprendizaje y simplificar tu día a día. Te proporcionaremos estrategias prácticas y consejos útiles para que puedas integrar estas tecnologías de manera efectiva en tu vida y en tu negocio.
 
 ¡Únete a nosotros en este emocionante viaje hacia el futuro digital y descubre todo lo que las nuevas tecnologías pueden hacer por ti!
+
+Visita la página web de [MarMax](https://marmax.netlify.app/) para mas información.

@@ -39,3 +39,5 @@ Al entender la psicología del color, puedes utilizar los colores de manera estr
 ---
 
 ***En conclusión***, el color es una herramienta poderosa en el diseño gráfico que puede influir en la percepción de tu marca y en la respuesta emocional de tus clientes. Al comprender la psicología del color y aplicar estos principios en tu diseño, puedes crear materiales visuales atractivos, efectivos y que conecten de manera significativa con tu audiencia. ¡Descubre cómo el color puede transformar la forma en que tu marca se percibe y conecta con tu público!
+
+Visita la página web de [MarMax](https://marmax.netlify.app/) para mas información.
